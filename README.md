@@ -45,10 +45,10 @@ Challenge data THS:
 •	Overall passing: 65%
 
 ## Scores by school spending
-- the spenidng for THS seems to be lowered once we make the changes to the dataframe. 
+- The spenidng for THS seems to be lowered once we make the changes to the dataframe. 
 ## Scores by school size
-not affected
+- Not affected
 ## Scores by school type
-1.	Also not affected
+- Also not affected
 
   
