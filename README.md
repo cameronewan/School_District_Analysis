@@ -3,11 +3,14 @@
   A schoolboard is concerned that there has been academic dishonesty and they would like us to remove the school and grade in question from their dataset.
 ## Results: 
 How is the district summary affected?
- 
-
-o	How is the school summary affected?
 
 
+
+How is the school summary affected?
+Challenge:
+ <img width="831" alt="Screen Shot 2021-03-14 at 6 30 35 PM" src="https://user-images.githubusercontent.com/75695931/111086682-e7742500-84f3-11eb-9cfa-d93eb2c2ac98.png">
+Module:
+<img width="850" alt="Screen Shot 2021-03-14 at 6 30 50 PM" src="https://user-images.githubusercontent.com/75695931/111086683-e80cbb80-84f3-11eb-84e5-12db402d5b3e.png">
 
 
 
