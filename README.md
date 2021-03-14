@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Overview of the school district analysis: 
   A schoolboard is concerned that there has been academic dishonesty and they would like us to remove the school and grade in question from their dataset. They want us to remove this data becasue they are not sure how it might be affecting the results created in our previous module for them.
-## Results: 
+# Results: 
 ## How is the district summary affected?
 
 Challenge:
@@ -16,11 +16,11 @@ Module:
 
 ## How is the school summary affected?
 
-Challenge:
+Module:
  
 <img width="831" alt="Screen Shot 2021-03-14 at 6 30 35 PM" src="https://user-images.githubusercontent.com/75695931/111086682-e7742500-84f3-11eb-9cfa-d93eb2c2ac98.png">
 
-Module:
+Challenge:
 
 <img width="850" alt="Screen Shot 2021-03-14 at 6 30 50 PM" src="https://user-images.githubusercontent.com/75695931/111086683-e80cbb80-84f3-11eb-84e5-12db402d5b3e.png">
 
@@ -30,6 +30,7 @@ Module:
 - It does not really affect Thomas High School that much as they are still one of the top 5 schools. 
 However we cannot see their scores for the 9th grade so it is hard to compare that grade to other schools for reading. 
 ## How does replacing the ninth-grade scores affect the following:
+# Summary
 ## Math and reading scores by gradeModule data THS:
 •	percentage passing (math): 93.2%
 •	percentage passing (reading): 97.3%
@@ -49,6 +50,5 @@ Challenge data THS:
 not affected
 ## Scores by school type
 1.	Also not affected
-Summary:
+
   
-![image](https://user-images.githubusercontent.com/75695931/111086617-82b8ca80-84f3-11eb-9291-14085b3f1135.png)
