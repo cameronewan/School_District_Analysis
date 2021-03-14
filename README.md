@@ -4,11 +4,11 @@
 ## Results: 
 ## How is the district summary affected?
 
-Module:
+Challenge:
 
 <img width="795" alt="Screen Shot 2021-03-14 at 6 29 19 PM" src="https://user-images.githubusercontent.com/75695931/111086714-1e4a3b00-84f4-11eb-839b-4dc9076ba53c.png">
 
-Challenge:
+Module:
 
 <img width="775" alt="Screen Shot 2021-03-14 at 6 29 43 PM" src="https://user-images.githubusercontent.com/75695931/111086715-1e4a3b00-84f4-11eb-8a8d-83abf1510327.png">
 
